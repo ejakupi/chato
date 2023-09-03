@@ -13,12 +13,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <title>LangChain + Next.js Template</title>
+        <title>Techy The Geeky Chatbot</title>
         <link rel="shortcut icon" href="/images/favicon.ico" />
         <meta property="og:title" content="Techy the Geeky Chatbot" />
         <meta property="og:image" content="/images/og-image.png" />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Techy the Geeky Chatbot" />
+        <meta name="twitter:title" content="Techy The Geeky Chatbot" />
         <meta
           name="twitter:description"
           content="Techy the Geeky Chatbot"
