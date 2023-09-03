@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  color: hwb(0 82% 11%);
+  background: #131318;
+}
+
+body input,
+body textarea {
+  color: hsl(0, 0%, 47%);
+}
+
+a {
+  color: hsl(212, 91%, 26%);
+}
+
+a:hover {
+  border-bottom: 2px solid;
+}
+
+p {
+  margin: 6px 0;
+}
+
+code {
+  color: hsl(68, 100%, 50%);
+}
+
+li {
+  padding: 2px;
+}
